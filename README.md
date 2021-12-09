@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amir00334
-- 👀 I’m interested in ...v FrontEnd
-- 🌱 I’m currently learning ... javascript
+- 👀 I’m interested in ...v FrontEnd and backend
+- 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
