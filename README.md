@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Amir00334
 - 👀 I’m interested in ...v FrontEnd and backend
-- 🌱 I’m currently learning ... python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ... js
 
 <!---
 Amir00334/Amir00334 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
