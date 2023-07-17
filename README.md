@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Amir pesarakloo, a frontend developer 👨‍💻 workiny since 2021 🚀</div>  
+### <div align="center">I'm Amir pesarakloo, a frontend developer 👨‍💻 working since 2021 🚀</div>  
   
 
 <br/>  
